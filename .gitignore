@@ -1,0 +1,6 @@
+hugo_stats.json
+*.sum
+*.lock
+
+public/
+resources/
